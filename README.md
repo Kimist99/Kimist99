@@ -16,7 +16,7 @@ I am currently a Ph.D. candidate in Healthcare Informatics at Rutgers University
 
 ## Advocacy and Outreach
 
-Understanding the power of community and representation, I co-founded BlackTIDES in 2020. It aims to connect, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and Social Sciences.
+Understanding the power of community and representation, I co-founded BlackTIDES in 2020 where I served as the Informatics and Graphics Design Co-Lead. It aims to connect, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and Social Sciences.
 ### Let's Connect
 
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.

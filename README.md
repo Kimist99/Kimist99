@@ -10,8 +10,6 @@ Today, I currently work as a Chemical Information Manager and Cheminformatics Te
 - Collaborating closely with the FDA to ensure the quality of pharmaceutical products in the US.
 - Engaging in innovative projects leveraging machine learning and AI to explore impurities in API production.
 
-My professional journey has seen me evolve from a Health Data Analyst to a Health Data Scientist.
-
 ## Academic Pursuits 🎓
 
 I am currently a Ph.D. candidate in Healthcare Informatics at Rutgers University. My dissertation is not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities.

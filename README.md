@@ -3,7 +3,7 @@
 Hi I'm Kimberly, an Informaticist, Health Data Scientist Consultant, Chemist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
 
 ## My Career and What I Do
-In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Health Informaticist / Health Data Scientist.
+In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Informaticist / Health Data Scientist.
 
 Today, I work as a Chemical Information Manager and Cheminformatics Team Lead at a leading US Pharmaceutical organization, my role includes:
 - Overseeing the editing and curation of substance/ chemical information.

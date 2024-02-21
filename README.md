@@ -5,7 +5,7 @@ Hi I'm Kimberly, an Informaticist, Health Data Scientist Consultant, Chemist, He
 ## My Career and What I Do
 In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Informaticist / Health Data Scientist.
 
-Today, I work as a Chemical Information Manager and Cheminformatics Team Lead at a leading US Pharmaceutical organization, my role includes:
+Today, I work as a Chemical Information Manager and Cheminformatics Team Lead at a leading US Pharmaceutical organization and my role includes:
 - Overseeing the editing and curation of substance/ chemical information.
 - Collaborating closely with the FDA to ensure the quality of pharmaceutical products in the US.
 - Engaging in innovative projects leveraging machine learning and AI to explore impurities in API production.

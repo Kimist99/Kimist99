@@ -16,7 +16,7 @@ I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University.
 
 ## Advocacy and Outreach
 
-Understanding the power of community and representation, I'm the Executive Director of BlackTIDES Data where I serve as the Informatics Lead and the Social Media and Graphics Design Co-Lead. BlackTIDES Data aims to connect, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences.
+Understanding the power of community and representation, I'm the Executive Director of BlackTIDES Data where I serve as the Informatics Lead and the Social Media / Linkedin Co-Lead. BlackTIDES Data aims to connect with, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences.
 ### Let's Connect
 
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.

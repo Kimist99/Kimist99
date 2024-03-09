@@ -22,8 +22,8 @@ Understanding the power of community and representation, I'm the Executive Direc
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
 - 🌐 Visit my [website](https://btdata.my.canva.site/kimformatics) for more on my work and social media links.
 - 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
-  - [(https://twitter.com/BlackTIDES_Data/status/1725570952358981999)][Twitter] 
-  - [LinkedIn][https://www.linkedin.com/company/BlackTIDESData] 
+  - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
+  - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData) 
 
 
 

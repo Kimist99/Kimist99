@@ -16,11 +16,13 @@ I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University.
 
 ## Advocacy and Outreach
 
-Understanding the power of community and representation, I'm the Executive Director of BlackTIDES Data where I serve as the Informatics Lead and the Social Media / Linkedin Co-Lead. BlackTIDES Data aims to connect with, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences.
+Understanding and being a beneficiary of the power of community and representation, I'm the Executive Director of BlackTIDES Data where I serve as the Informatics Lead and the Social Media / Linkedin Co-Lead. BlackTIDES Data aims to connect with, teach, and mentor current and future Black Data professionals to thrive in the fields of Technology, Informatics, Data Science, Epidemiology, and the Social Sciences. I also curate a newslwetter in Chemical Informatics / Computational Toxicology where I share my insights, latest research findings, and analysis using the latest data analytics tools to foster a deeper understanding among professionals and enthusiasts alike. Through these platforms, I am committed to uplifting and expanding the representation of Black professionals in STEM fields, ensuring they have the resources, network, and knowledge to excel and thrive. 
+
 ### Let's Connect
 
 - 📧 Email me at [k.deas@kimformatics.com](mailto:k.deas@kimformatics.com) for collaborations or inquiries.
 - 🌐 Visit my [website](https://btdata.my.canva.site/kimformatics) for more on my work and social media links.
+- [Check out my Chemical Informatics / Computational Toxicology Newsletter](https://cheminfocomptox.substack.com?utm_source=navbar&utm_medium=web&r=2xwl0l)
 - 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
   - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
   - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData) 

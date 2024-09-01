@@ -12,7 +12,7 @@ Today, I work as a Sr. Data Scientist at a leading US Pharmaceutical organizatio
 
 ## Academic Pursuits 🎓
 
-I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University. My dissertation is not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cheminformatics and computational toxicology.
+I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University and will finish my PhD in December 2024. My dissertation is not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cheminformatics and computational toxicology.
 
 ## Advocacy and Outreach
 

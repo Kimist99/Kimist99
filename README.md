@@ -27,7 +27,8 @@ Understanding and being a beneficiary of the power of community and representati
 
 - 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
   - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
-  - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData) 
+  - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData)
+  - [Threads] (https://www.threads.net/@blacktidesdata)
 
 
 

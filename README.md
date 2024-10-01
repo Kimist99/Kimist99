@@ -10,6 +10,8 @@ Today, I work as a Sr. Data Scientist at a leading US Pharmaceutical organizatio
 - Utilizes Python, R, Kedro, and KNIME to develop AI algorithms and analyze complex chemical data, enhancing predictive analytics capabilities.
 - Builds dynamic dashboards and visual reports with Tableau, facilitating and assesses drug shortage risks by identifying high-risk drugs / KSMs and forecasting potential shortages through advanced predictive analytics in Python and KNIME.
 
+I'm was awarded an Internship in Health Informatics at Rutgers University, to study castration resistant prostate cancer in the research group of Dr. Antonia Mitrofanova. Project title: Novel computational algorithms to predict synergistic drug combinations for castration-resistant prostate cancer (CRPC).
+
 ## Academic Pursuits 🎓
 
 I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University and will finish my PhD in December 2024. My dissertation is not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cheminformatics and computational toxicology.

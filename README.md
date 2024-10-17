@@ -5,7 +5,7 @@ Hi I'm Kimberly a Prinicpal Level Data Scientist / Informaticist, Chemist, Healt
 ## My Career and What I Do
 In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Prinicpal Informaticist / Health Data Scientist.
 
-I was also awarded an Internship in Health Informatics at Rutgers University, to study castration resistant prostate cancer in the research group of Dr. Antonia Mitrofanova. Project title: Novel computational algorithms to predict synergistic drug combinations for castration-resistant prostate cancer (CRPC).
+This past summer, I was awarded an Internship in Health Informatics at Rutgers University, to study castration resistant prostate cancer in the research group of Dr. Antonia Mitrofanova. Project title: Novel computational algorithms to predict synergistic drug combinations for castration-resistant prostate cancer (CRPC).
 
 ## Academic Pursuits 🎓
 

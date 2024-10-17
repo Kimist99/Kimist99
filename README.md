@@ -3,14 +3,9 @@
 Hi I'm Kimberly a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, HIV /Cancer research SME, and passionate Data Educator living in the Metro DC area. 
 
 ## My Career and What I Do
-In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Informaticist / Health Data Scientist.
+In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Prinicpal Informaticist / Health Data Scientist.
 
-Today, I work as a Sr. Data Scientist at a leading US Pharmaceutical organization and my role includes:
-- Leads the Key Starting Materials (KSM) front-end development workstreams for the Supply Chain Analytics team.
-- Utilizes Python, R, Kedro, and KNIME to develop AI algorithms and analyze complex chemical data, enhancing predictive analytics capabilities.
-- Builds dynamic dashboards and visual reports with Tableau, facilitating and assesses drug shortage risks by identifying high-risk drugs / KSMs and forecasting potential shortages through advanced predictive analytics in Python and KNIME.
-
-I'm was also awarded an Internship in Health Informatics at Rutgers University, to study castration resistant prostate cancer in the research group of Dr. Antonia Mitrofanova. Project title: Novel computational algorithms to predict synergistic drug combinations for castration-resistant prostate cancer (CRPC).
+I was also awarded an Internship in Health Informatics at Rutgers University, to study castration resistant prostate cancer in the research group of Dr. Antonia Mitrofanova. Project title: Novel computational algorithms to predict synergistic drug combinations for castration-resistant prostate cancer (CRPC).
 
 ## Academic Pursuits 🎓
 

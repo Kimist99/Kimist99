@@ -22,7 +22,7 @@ Understanding and being a beneficiary of the power of community and representati
 - [Check out my Health Disparites / Health Equity Newsletter, Data for Wellbeing](https://[https://dataforwellbeing.substack.com/)
 - Follow me on Threads for real time updates in Data Science / AI / Machine Learning: [https://www.threads.net/@kimformatics1](https://www.threads.net/@kimformatics1) 
 
-- 💼 Interested in learning more about BlackTIDES? Follow us on Social Media 📱: Stay updated with our latest news and events.
+- 💼 Interested in learning more about BlackTIDES Data? Follow us on Social Media 📱: Stay updated with our latest news and events.
   - [Twitter](https://twitter.com/BlackTIDES_Data/status/1725570952358981999) 
   - [LinkedIn](https://www.linkedin.com/company/BlackTIDESData)
   - [Threads](https://www.threads.net/@blacktidesdata)

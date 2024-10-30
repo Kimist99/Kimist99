@@ -1,6 +1,6 @@
 ## Welcome! 👋🏾
 
-Hi I'm Kimberly a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, HIV /Cancer research SME, and passionate Data Educator living in the Metro DC area. 
+Hi I'm Kimberly a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
 
 ## My Career and What I Do
 In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Prinicpal Informaticist / Health Data Scientist.

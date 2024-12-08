@@ -1,6 +1,6 @@
 ## Welcome! 👋🏾
 
-Hi I'm Kimberly a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
+Hi I'm Dr. Kimberly Deas a Prinicpal Level Data Scientist / Informaticist, Chemist, Health Disparities Researcher, and passionate Data Educator living in the Metro DC area. 
 
 ## My Career and What I Do
 In my career journey, I have had a number of roles, including Bench Research Scientist, Lab Director, Health Data Analyst, and now Prinicpal Informaticist / Health Data Scientist.
@@ -9,7 +9,7 @@ This past summer, I was awarded an Internship in Health Informatics at Rutgers U
 
 ## Academic Pursuits 🎓
 
-I'm currently a Ph.D. candidate in Healthcare Informatics at Rutgers University and will finish my PhD in December 2024. My dissertation is not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cancer genomics and computational biology.
+I'm recently completed a Ph.D. candidate in Biomedical Informatics with a focus in Healthcare Informatics, at Rutgers University. My dissertation was not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cancer genomics and computational biology.
 
 ## Advocacy and Outreach
 

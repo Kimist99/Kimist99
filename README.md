@@ -7,7 +7,7 @@ In my career journey, I have had a number of roles, including Bench Research Sci
 
 ## Academic Pursuits 🎓
 
-I'm recently completed a Ph.D. candidate in Biomedical Informatics with a focus in Healthcare Informatics, at Rutgers University. My dissertation was not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cancer genomics and computational biology.
+I recently completed a Ph.D. candidate in Biomedical Informatics with a focus in Healthcare Informatics, at Rutgers University. My dissertation was not just research; it's a personal mission to use AI/Machine Learning to improve the health outcomes of Black women living with HIV, reflecting my commitment to real-time solutions for health disparities. I also have a strong interst in artifical intelligence / machine learning applications in the fields of cancer genomics and computational biology.
 
 ## Advocacy and Outreach
 
